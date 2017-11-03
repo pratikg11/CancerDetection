@@ -1,0 +1,12 @@
+breast cancer
+brain cancer
+liver cancer
+lung cancer
+bone cancer
+kidney cancer
+stomach cancer
+oral cancer
+spinal cancer 
+adrenal cancer
+acute lymphocytic leukemia
+gallbladder cancer

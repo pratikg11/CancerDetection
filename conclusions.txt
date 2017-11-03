@@ -1,0 +1,50 @@
+cancer
+10
+breast lump
+20
+cancer
+30
+Cognitive problems
+40
+cancer
+50
+Enlarged liver
+60
+cancer
+70
+Lumps in the neck
+80
+cancer
+90
+Bone pain
+100
+cancer
+110
+Persistent pain of abdomen
+120
+cancer
+130
+heartburn
+140
+cancer
+150
+loosening of the teeth
+160
+cancer
+170
+spinal deformities
+180
+cancer
+190
+conn's syndrom
+200
+cancer
+210
+leukopenia
+220
+cancer
+230
+jaundice
+240
+cancer
+250
